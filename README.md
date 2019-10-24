@@ -1,5 +1,4 @@
-# palindrome
-# amusement-park
+# Palindrome
 
 Aug. 2019
 
